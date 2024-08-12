@@ -4,6 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: auto;
+    height: 100vh;
     margin: 0;
     background: linear-gradient(to right, #071f95, #e63232);
     color: #000000;
@@ -17,6 +18,7 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
     width: 400px;
+    width: 300px;
 }
 
 h1 {
